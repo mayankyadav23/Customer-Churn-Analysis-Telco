@@ -1,4 +1,4 @@
-# 📊 Customer Churn Analysis: Unlocking Insights for Retention
+# 📊 Customer Churn Analysis: Exploratory Data Analysis & Unlocking Insights for Retention
 
 ## 🔍 Objective
 
